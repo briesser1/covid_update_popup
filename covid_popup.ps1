@@ -1,0 +1,1 @@
+C:\Users\Riesser\Documents\python_popup\covid_popup.bat
