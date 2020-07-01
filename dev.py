@@ -1,4 +1,4 @@
-#import libraries
+#import libraries and import data
 import pandas as pd
 import datadotworld as dw
 import tkinter as tk
