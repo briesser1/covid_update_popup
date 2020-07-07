@@ -129,17 +129,142 @@
 127,Ohio,Clark,729,539.21,8,2020-06-30
 128,North Carolina,Brunswick,510,402.02,5,2020-06-30
 129,Ohio,Licking,404,234.48,11,2020-06-30
-144,California,Los Angeles,103872,1028.63,3373,2020-07-01
-145,Ohio,Franklin,9148,717.3,404,2020-07-01
-146,North Carolina,Wake,5178,494.76,47,2020-07-01
-147,South Carolina,Greenville,5009,1005.01,81,2020-07-01
-148,South Carolina,Charleston,4027,1020.25,26,2020-07-01
-149,North Carolina,Durham,3679,1200.49,63,2020-07-01
-150,South Carolina,Richland,3518,861.7,83,2020-07-01
-151,South Carolina,Horry,3321,1034.85,45,2020-07-01
-152,North Carolina,Forsyth,2996,806.3,34,2020-07-01
-153,Virginia,Chesterfield,2897,853.45,50,2020-07-01
-154,South Carolina,Lexington,2071,723.33,49,2020-07-01
-155,Ohio,Clark,729,539.21,8,2020-07-01
-156,North Carolina,Brunswick,510,402.02,5,2020-07-01
-157,Ohio,Licking,404,234.48,11,2020-07-01
+130,North Carolina,Wake,5178,494.76,47,2020-07-01
+131,North Carolina,Durham,3679,1200.49,63,2020-07-01
+132,North Carolina,Forsyth,2996,806.3,34,2020-07-01
+133,North Carolina,Brunswick,510,402.02,5,2020-07-01
+134,California,Los Angeles,103872,1028.63,3373,2020-07-01
+135,Ohio,Franklin,9148,717.3,404,2020-07-01
+136,North Carolina,Wake,5298,506.23,47,2020-07-01
+137,South Carolina,Greenville,5009,1005.01,81,2020-07-01
+138,South Carolina,Charleston,4027,1020.25,26,2020-07-01
+139,North Carolina,Durham,3752,1224.32,63,2020-07-01
+140,South Carolina,Richland,3518,861.7,83,2020-07-01
+141,South Carolina,Horry,3321,1034.85,45,2020-07-01
+142,North Carolina,Forsyth,3077,828.1,35,2020-07-01
+143,Virginia,Chesterfield,2897,853.45,50,2020-07-01
+144,South Carolina,Lexington,2071,723.33,49,2020-07-01
+145,Ohio,Clark,729,539.21,8,2020-07-01
+146,North Carolina,Brunswick,546,430.4,6,2020-07-01
+147,Ohio,Licking,404,234.48,11,2020-07-01
+148,California,Los Angeles,105665,1046.39,3405,2020-07-02
+149,North Carolina,Wake,5298,506.23,47,2020-07-02
+150,South Carolina,Greenville,5118,1026.88,83,2020-07-02
+151,South Carolina,Charleston,4289,1086.63,33,2020-07-02
+152,North Carolina,Durham,3752,1224.32,63,2020-07-02
+153,South Carolina,Richland,3632,889.62,84,2020-07-02
+154,South Carolina,Horry,3550,1106.21,48,2020-07-02
+155,North Carolina,Forsyth,3077,828.1,35,2020-07-02
+156,Virginia,Chesterfield,2914,858.46,53,2020-07-02
+157,South Carolina,Lexington,2161,754.76,50,2020-07-02
+158,North Carolina,Brunswick,546,430.4,6,2020-07-02
+159,California,Los Angeles,105779,1047.52,3406,2020-07-02
+160,Ohio,Franklin,9338,732.2,407,2020-07-02
+161,North Carolina,Wake,5453,521.04,49,2020-07-02
+162,South Carolina,Greenville,5371,1077.64,83,2020-07-02
+163,South Carolina,Charleston,4615,1169.22,34,2020-07-02
+164,North Carolina,Durham,3830,1249.77,63,2020-07-02
+165,South Carolina,Richland,3757,920.24,86,2020-07-02
+166,South Carolina,Horry,3730,1162.3,50,2020-07-02
+167,North Carolina,Forsyth,3132,842.9,37,2020-07-02
+168,Virginia,Chesterfield,2939,865.82,53,2020-07-02
+169,South Carolina,Lexington,2236,780.96,53,2020-07-02
+170,Ohio,Clark,739,546.61,9,2020-07-02
+171,North Carolina,Brunswick,574,452.47,6,2020-07-02
+172,Ohio,Licking,416,241.45,11,2020-07-02
+173,Ohio,Franklin,9338,732.2,407,2020-07-03
+174,North Carolina,Wake,5453,521.04,49,2020-07-03
+175,South Carolina,Greenville,5371,1077.64,83,2020-07-03
+176,South Carolina,Charleston,4615,1169.22,34,2020-07-03
+177,North Carolina,Durham,3830,1249.77,63,2020-07-03
+178,South Carolina,Richland,3757,920.24,86,2020-07-03
+179,South Carolina,Horry,3730,1162.3,50,2020-07-03
+180,North Carolina,Forsyth,3132,842.9,37,2020-07-03
+181,Virginia,Chesterfield,2939,865.82,53,2020-07-03
+182,South Carolina,Lexington,2236,780.96,53,2020-07-03
+183,Ohio,Clark,739,546.61,9,2020-07-03
+184,North Carolina,Brunswick,574,452.47,6,2020-07-03
+185,Ohio,Licking,416,241.45,11,2020-07-03
+186,California,Los Angeles,107792,1067.45,3457,2020-07-03
+187,Ohio,Franklin,9825,770.39,417,2020-07-03
+188,North Carolina,Wake,5651,539.96,49,2020-07-03
+189,South Carolina,Greenville,5497,1102.92,86,2020-07-03
+190,South Carolina,Charleston,5033,1275.12,34,2020-07-03
+191,South Carolina,Horry,3966,1235.84,50,2020-07-03
+192,North Carolina,Durham,3940,1285.66,65,2020-07-03
+193,South Carolina,Richland,3866,946.94,86,2020-07-03
+194,North Carolina,Forsyth,3185,857.17,37,2020-07-03
+195,Virginia,Chesterfield,2974,876.13,53,2020-07-03
+196,South Carolina,Lexington,2281,796.67,53,2020-07-03
+197,Ohio,Clark,761,562.88,9,2020-07-03
+198,North Carolina,Brunswick,603,475.33,6,2020-07-03
+199,Ohio,Licking,442,256.54,12,2020-07-03
+200,California,Los Angeles,107806,1067.59,3457,2020-07-04
+201,Ohio,Franklin,9825,770.39,417,2020-07-04
+202,North Carolina,Wake,5651,539.96,49,2020-07-04
+203,South Carolina,Greenville,5497,1102.92,86,2020-07-04
+204,South Carolina,Charleston,5033,1275.12,34,2020-07-04
+205,South Carolina,Horry,3966,1235.84,50,2020-07-04
+206,North Carolina,Durham,3940,1285.66,65,2020-07-04
+207,South Carolina,Richland,3866,946.94,86,2020-07-04
+208,North Carolina,Forsyth,3185,857.17,37,2020-07-04
+209,Virginia,Chesterfield,2974,876.13,53,2020-07-04
+210,South Carolina,Lexington,2281,796.67,53,2020-07-04
+211,Ohio,Clark,761,562.88,9,2020-07-04
+212,North Carolina,Brunswick,603,475.33,6,2020-07-04
+213,Ohio,Licking,442,256.54,12,2020-07-04
+214,Virginia,Chesterfield,2972,875.54,53,2020-07-05
+215,California,Los Angeles,107826,1067.79,3457,2020-07-05
+216,Ohio,Franklin,10023,785.91,420,2020-07-05
+217,North Carolina,Wake,5810,555.15,49,2020-07-05
+218,South Carolina,Greenville,5696,1142.85,86,2020-07-05
+219,South Carolina,Charleston,5376,1362.02,35,2020-07-05
+220,South Carolina,Horry,4324,1347.4,54,2020-07-05
+221,South Carolina,Richland,4013,982.94,87,2020-07-05
+222,North Carolina,Durham,3992,1302.63,66,2020-07-05
+223,North Carolina,Forsyth,3233,870.08,37,2020-07-05
+224,Virginia,Chesterfield,3015,888.21,53,2020-07-05
+225,South Carolina,Lexington,2322,810.99,56,2020-07-05
+226,Ohio,Clark,765,565.84,9,2020-07-05
+227,North Carolina,Brunswick,628,495.03,6,2020-07-05
+228,Ohio,Licking,466,270.47,12,2020-07-05
+229,Ohio,Franklin,10271,805.36,422,2020-07-06
+230,North Carolina,Wake,5980,571.4,49,2020-07-06
+231,South Carolina,Greenville,5864,1176.56,87,2020-07-06
+232,South Carolina,Charleston,5651,1431.69,36,2020-07-06
+233,South Carolina,Horry,4482,1396.63,54,2020-07-06
+234,South Carolina,Richland,4127,1010.87,87,2020-07-06
+235,North Carolina,Durham,4039,1317.97,67,2020-07-06
+236,North Carolina,Forsyth,3290,885.42,37,2020-07-06
+237,South Carolina,Lexington,2396,836.84,57,2020-07-06
+238,Ohio,Clark,765,565.84,9,2020-07-06
+239,North Carolina,Brunswick,646,509.22,6,2020-07-06
+240,Ohio,Licking,477,276.85,12,2020-07-06
+241,California,Los Angeles,115024,1139.07,3487,2020-07-06
+242,Ohio,Franklin,10410,816.26,429,2020-07-06
+243,North Carolina,Wake,6231,595.38,49,2020-07-06
+244,South Carolina,Greenville,6019,1207.66,87,2020-07-06
+245,South Carolina,Charleston,5979,1514.79,36,2020-07-06
+246,South Carolina,Horry,4717,1469.86,55,2020-07-06
+247,South Carolina,Richland,4216,1032.67,87,2020-07-06
+248,North Carolina,Durham,4107,1340.16,67,2020-07-06
+249,North Carolina,Forsyth,3353,902.38,37,2020-07-06
+250,Virginia,Chesterfield,3015,888.21,53,2020-07-06
+251,South Carolina,Lexington,2462,859.89,57,2020-07-06
+252,Ohio,Clark,766,566.58,9,2020-07-06
+253,North Carolina,Brunswick,662,521.84,6,2020-07-06
+254,Ohio,Licking,493,286.14,12,2020-07-06
+255,California,Los Angeles,116670,1155.37,3537,2020-07-07
+256,Ohio,Franklin,10410,816.26,429,2020-07-07
+257,North Carolina,Wake,6231,595.38,49,2020-07-07
+258,South Carolina,Greenville,6019,1207.66,87,2020-07-07
+259,South Carolina,Charleston,5979,1514.79,36,2020-07-07
+260,South Carolina,Horry,4717,1469.86,55,2020-07-07
+261,South Carolina,Richland,4216,1032.67,87,2020-07-07
+262,North Carolina,Durham,4107,1340.16,67,2020-07-07
+263,North Carolina,Forsyth,3353,902.38,37,2020-07-07
+264,Virginia,Chesterfield,3026,891.45,53,2020-07-07
+265,South Carolina,Lexington,2462,859.89,57,2020-07-07
+266,Ohio,Clark,766,566.58,9,2020-07-07
+267,North Carolina,Brunswick,662,521.84,6,2020-07-07
+268,Ohio,Licking,493,286.14,12,2020-07-07
